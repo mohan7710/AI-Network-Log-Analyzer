@@ -1,0 +1,8 @@
+2026-06-11 08:15:01 core-router-01 INFO Interface ge-0/0/1 link up
+2026-06-11 08:17:42 branch-fw-02 ERROR DNS query failed for crm.internal.example: SERVFAIL from 10.20.0.53
+2026-06-11 08:18:03 branch-fw-02 WARN DNS timeout while resolving updates.vendor.example
+2026-06-11 08:22:19 switch-03 ERROR dropped packets on uplink port Gi1/0/48 rx errors increasing
+2026-06-11 08:24:51 monitor-01 WARN 18% packet loss to 10.30.4.12 over 60 probes
+2026-06-11 08:30:01 app-proxy-01 ERROR connection timeout to api.partner.example:443
+2026-06-11 08:32:44 core-router-01 CRITICAL 38% packet loss detected on WAN circuit MPLS-A
+2026-06-11 08:34:17 dns-cache-01 INFO cache warmup completed

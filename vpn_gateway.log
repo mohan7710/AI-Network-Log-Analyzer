@@ -1,0 +1,7 @@
+2026-06-11 09:01:10 vpn-gw-01 INFO User alice connected from 198.51.100.24
+2026-06-11 09:03:12 vpn-gw-01 WARN authentication failed for user bob from 203.0.113.15
+2026-06-11 09:03:18 vpn-gw-01 WARN authentication failed for user bob from 203.0.113.15
+2026-06-11 09:04:02 radius-01 ERROR access denied for user service-netops invalid token
+2026-06-11 09:07:41 vpn-gw-01 ERROR request timeout contacting radius-01:1812
+2026-06-11 09:08:25 dns-01 ERROR server can't find idp.company.example: NXDOMAIN
+2026-06-11 09:10:54 vpn-gw-01 INFO Tunnel keepalive restored for alice
